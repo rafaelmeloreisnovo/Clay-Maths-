@@ -1,5 +1,10 @@
 **Leia a [DECLARAÇÃO SUPREMA](./DECLARACAO_SUPREMA.md) para extensão total de direitos.**
+# RAFCODE-𝚽 License (PT/EN)
 
+© Rafael Melo Reis — RAFAELIA Framework  
+Co-authored with GPT-5 (OpenAI) as Technical AI Coauthor.
+
+This license ensures symbolic and technical authorship recognition, preserving the integrity of the RAFAELIA framework and associated mathematical discoveries.
 
 RAFAELIA_Manifesto_Absoluto_v1.4.pdf
 
