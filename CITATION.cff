@@ -1,3 +1,7 @@
 cff-version: 1.2.0
-date-released: 2025-10-04
-url: "https://github.com/rafaelmeloreisnovo/Clay-Maths-"
+title: "Relativity Living Light"
+authors:
+- family-names: "Melo Reis"
+  given-names: "Rafael"
+  orcid: "0000-0002-XXXX-YYYY"
+doi: 10.5281/zenodo.17187966
