@@ -144,3 +144,15 @@ Estado obrigatório:
 7. executar permutações de hipóteses;
 8. publicar matriz de evidência e falsificadores;
 9. manter `claim_allowed=false` até revisão independente.
+
+## Matriz de prioridade operacional
+
+| Classe | Critério | Ação |
+|---|---|---|
+| CRÍTICO | identidade do evento, vítimas, fonte original, laudo | bloquear conclusão sem evidência |
+| URGENTE | vídeo integral, sequência temporal, geometria e modelo do veículo | coletar e preservar proveniência |
+| INDISPENSÁVEL | velocidade como intervalo, pulso de desaceleração, retenção e banco | reconstruir cenários físicos |
+| IMPORTANTE | testemunhos, condições ambientais e resposta médica | triangular com registros objetivos |
+| VALOROSO | padrões comparáveis de sobrevivência rara | criar corpus sem generalização indevida |
+| INÉDITO | permutações multinível com rastreio de hipóteses | testar sensibilidade e falsificadores |
+| ESPIRITUAL | significado atribuído à sobrevivência | registrar separadamente do mecanismo causal |
